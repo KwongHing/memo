@@ -1,0 +1,2 @@
+﻿新建的Mysql数据库编码需设置为
+set names utf8

@@ -1,0 +1,1 @@
+﻿keytool -genkeypair -alias "zgx8" -keyalg "RSA" -keystore "D:\workspace\zgx8.keystore"

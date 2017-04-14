@@ -1,0 +1,7 @@
+1、修改my.cnf延长连接超时时间
+[mysqld]
+wait_timeout=31536000 
+interactive_timeout=31536000
+
+2、在连接URL上添加参数
+autoReconnect=true&failOverReadOnly=false
